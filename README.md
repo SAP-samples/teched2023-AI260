@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-AI284v)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-AI284v)
 
-# Session ID - Session Title
+# AI260 - Enhance Business Document Extraction with Large Language Models
 
 ## Description
 
