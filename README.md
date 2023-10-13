@@ -1,10 +1,9 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-AI284v)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-AI284v)
 
-# AI260 - Session Title
+# AI260 - Enhance Business Document Extraction with Large Language Models
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session AI260 - Session Title.  
+This repository contains the material for the SAP TechEd 2023 session AI260 - Enhance Business Document Extraction with Large Language Models.  
 
 ## Overview
 
