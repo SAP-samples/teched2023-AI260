@@ -1,5 +1,5 @@
 
-# AI260-Enhance Business Document Extraction with Large Language Models
+# AI260 - Enhance Business Document Extraction with Large Language Models
 
 ## Description
 
